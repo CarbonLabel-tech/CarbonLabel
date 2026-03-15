@@ -1,0 +1,2 @@
+run:
+	label-studio start
